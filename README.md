@@ -1,6 +1,6 @@
 # Домашнее задание к занятию "9. Анимации и CSS"
 
-**CI** [![Build status](https://ci.appveyor.com/api/projects/status/ep5djyjwbfvvbf64?svg=true)](https://ci.appveyor.com/project/kievsan/ahj-animation)    [GitHub Pages](https://kievsan.github.io/ahj-media/)
+**CI** [![Build status](https://ci.appveyor.com/api/projects/status/ep5djyjwbfvvbf64?svg=true)](https://ci.appveyor.com/project/kievsan/ahj-animation)    [GitHub Pages](https://kievsan.github.io/ahj-animation/)
 
 Правила сдачи задания:
 
